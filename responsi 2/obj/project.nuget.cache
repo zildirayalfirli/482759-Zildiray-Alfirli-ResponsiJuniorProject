@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "t337D2vKixeDSLJwVhVYVnAwY6W5cC7zb6iiKYXUmAUNLJqcbCsSC9MbylaJrPrsv34jUMEDlsDxSnVux9s0TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zildiray alfirli\\responsi 2\\responsi 2\\responsi 2\\responsi 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zildiray alfirli\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\zildiray alfirli\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\zildiray alfirli\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\zildiray alfirli\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\zildiray alfirli\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
